@@ -1,0 +1,6 @@
+{
+  "name": "QuizAI",
+  "description": "Hệ thống AI tự động tạo bài kiểm tra, đề thi trắc nghiệm từ tài liệu học tập với truy xuất nguồn gốc kiến thức chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
